@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joymurti
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend web development
+- 🌱 I’m currently learning backend web development
 - 💞️ I’m looking to collaborate on casual project
 - 📫 How to reach me wwijoyo2@upi.edu/wwijoyo2@gmail.com
 
